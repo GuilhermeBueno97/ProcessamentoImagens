@@ -3,7 +3,7 @@ import glob
 import numpy as np
 from time import sleep
 
-watermark = cv2.imread("facens.jpg")
+watermark = cv2.imread("facens2.png")
 watermark = cv2.cvtColor(watermark, cv2.COLOR_BGR2BGRA)
 width = 640
 height = 480
