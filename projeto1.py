@@ -1,9 +1,8 @@
 import cv2
 import glob
 import numpy as np
-from time import sleep
 
-watermark = cv2.imread("../images/facens2.png")
+watermark = cv2.imread("images/facens2.png")
 watermark = cv2.cvtColor(watermark, cv2.COLOR_BGR2BGRA)
 width = 640
 height = 480
@@ -11,11 +10,10 @@ tam_borda = 20
 alpha = 0.6
 images = []
 
-for file in glob.glob("../slide/*.jpg") :
+for file in glob.glob("images/slide/*.jpg") :
     img = cv2.imread(file)
     img = cv2.resize(img, (width, height))
     img = cv2.cvtColor(img, cv2.COLOR_BGR2BGRA)
-
 
     overlay = np.zeros((img.shape[0], img.shape[1], 4), dtype="uint8")
     overlay[img.shape[0] - watermark.shape[0] : img.shape[0], 0 : watermark.shape[1]] = watermark

@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc755d5a-ec40-434b-a21f-2c725ba9e11f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ProcessamentoImagens.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projeto3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto1/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto1/facens.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/facens.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto1/facens2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/facens2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto1/imagens/marvel0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slide/marvel0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto1/imagens/marvel1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slide/marvel1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto1/imagens/marvel2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slide/marvel2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto1/imagens/marvel3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slide/marvel3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto1/imagens/marvel4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slide/marvel4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto1/imagens/marvel5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slide/marvel5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/projeto1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/projeto2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto1.py" beforeDir="false" afterPath="$PROJECT_DIR$/projeto1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto2.py" beforeDir="false" afterPath="$PROJECT_DIR$/projeto2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projeto3.py" beforeDir="false" afterPath="$PROJECT_DIR$/projeto3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,20 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projeto2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projeto3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <state relative-caret-position="159">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -53,10 +27,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projeto3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projeto1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+            <state relative-caret-position="180">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -82,6 +65,8 @@
         <option value="$PROJECT_DIR$/projeto2/main.py" />
         <option value="$PROJECT_DIR$/projeto3/main.py" />
         <option value="$PROJECT_DIR$/projeto1.py" />
+        <option value="$PROJECT_DIR$/projeto2.py" />
+        <option value="$PROJECT_DIR$/projeto3.py" />
       </list>
     </option>
   </component>
@@ -106,6 +91,11 @@
             <path>
               <item name="ProcessamentoImagens" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProcessamentoImagens" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProcessamentoImagens" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProcessamentoImagens" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -154,7 +144,7 @@
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15830721" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15830721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -165,7 +155,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30194804" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.48534203" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -174,10 +164,27 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projeto1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projeto2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        <state relative-caret-position="159">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -186,21 +193,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projeto3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projeto1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
